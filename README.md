@@ -19,4 +19,4 @@ The project is divided into several subtasks:
 Data belongs to the Bertelsmann Arvato Analytics, Udacity and Kaggle. The solutions are free for use.
 
 ## Result
-The main findings of the code can be found at the post available here at [Medium ]https://medium.com/@duante1231/identify-customer-segmentation-for-arvato-financial-services-2cca2c478704).
+The main findings of the code can be found at the post available here at [Medium](https://medium.com/@duante1231/identify-customer-segmentation-for-arvato-financial-services-2cca2c478704).
