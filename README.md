@@ -16,7 +16,7 @@ The project is divided into several subtasks:
 * Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
 ## Licensing, Authors, Acknowledgements
-Data belongs to the Bertelsmann Arvato Analytics, Udacity and Kaggle. The solutions are free for use.
+Data belongs to the Bertelsmann Arvato Analytics, Udacity and Kaggle. The solutions are free for use
 
 ## Result
 The main findings of the code can be found at the post available here at [Medium](https://medium.com/@duante1231/identify-customer-segmentation-for-arvato-financial-services-2cca2c478704).
